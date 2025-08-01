@@ -1,14 +1,26 @@
 #!/bin/bash
-_os="`uname`"
+set -eo pipefail
+
+_os="$(uname)"
 _now=$(date +"%m_%d_%Y")
-_file="wp-data/data_$_now.sql"
+_dir="wp-data"
+_file="${_dir}/data_${_now}.sql"
 
-# Export dump
-EXPORT_COMMAND='exec mysqldump "$MYSQL_DATABASE" -uroot -p"$MYSQL_ROOT_PASSWORD"'
-docker-compose exec db sh -c "$EXPORT_COMMAND" > $_file
+# Create directory if it doesn't exist
+mkdir -p "$_dir"
 
-if [[ $_os == "Darwin"* ]] ; then
-  sed -i '.bak' 1,1d $_file
+# Export dump with proper MySQL options for WordPress
+docker-compose run --rm db \
+    mysqldump --no-tablespaces \
+    -u"root" \
+    -p"$MYSQL_ROOT_PASSWORD" \
+    "$MYSQL_DATABASE" > "$_file"
+
+# Remove password warning line cross-platform
+if [[ "$_os" == "Darwin"* ]]; then
+    LANG=C sed -i '.bak' -e '/^Warning:/d' "$_file"
 else
-  sed -i 1,1d $_file # Removes the password warning from the file
+    LANG=C sed -i -e '/^Warning:/d' "$_file"
 fi
+
+echo "Successfully exported database to $_file"
