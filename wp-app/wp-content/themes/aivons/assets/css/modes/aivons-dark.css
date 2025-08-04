@@ -1,0 +1,449 @@
+/*--------------------------------------------------------------
+# Dark Mode
+--------------------------------------------------------------*/
+
+
+body {
+	--aivons-gray: #8f8da0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	--aivons-black: #fff;
+}
+
+table>tbody>tr>td,
+table>tbody>tr>th,
+table>tfoot>tr>td,
+table>tfoot>tr>th,
+table>thead>tr>td,
+table>thead>tr>th {
+	border-color: rgba(255, 255, 255, .10);
+}
+
+tbody {
+	background-color: transparent;
+}
+
+.two-boxes,
+.welcome-one {
+	--aivons-base: #151327;
+	--aivons-black: #ffffff;
+	--aivons-gray: #8f8da0;
+	--aivons-light: #1a172d;
+	background-color: var(--aivons-base);
+}
+
+.page-wrapper {
+	background-color: #151327;
+}
+
+.two-boxes__single {
+	background-color: var(--aivons-light);
+}
+
+.cases-one {
+	--aivons-gray: #8f8da0;
+	--aivons-light: #1a172d;
+}
+
+.section-title__title {
+	--aivons-black: #ffffff;
+}
+
+.testimonials-one {
+	background-color: #1a172d;
+}
+
+.faq-one-accrodion .accrodion-title {
+	--aivons-light: #1a172d;
+	--aivons-gray: #8f8da0;
+	--aivons-black: #ffffff;
+	--aivons-base: #0f0d1d;
+	background-color: #0f0d1d;
+}
+
+.faq-one-accrodion .accrodion.active {
+	background-color: #0f0d1d;
+	border: 1px solid #0f0d1d;
+}
+
+.cases-details__pagination-box,
+.brand-three,
+.news-details__bottom,
+.comment-one__single,
+.location__inner,
+.financial__right__list {
+	border-color: rgba(255, 255, 255, .10);
+}
+
+
+.testimonials-one__single {
+	--aivons-base: #0f0d1d;
+}
+
+.testimonials-one__quote {
+	background-image: url(../../images/testimonial/testimonials-1-iocn-dark.png)
+}
+
+.financial-advice__box .tab-btns .tab-btn span {
+	background-color: #1a172d;
+	color: #fff;
+}
+
+.financial-advice__box .tab-btns .tab-btn.active-btn span,
+.financial-advice__box .tab-btns .tab-btn:hover span {
+	--aivons-base: #151327;
+}
+
+.financial-advice__single-2::before,
+
+.financial-advice__icon {
+	background-color: #1a172d;
+}
+
+.contact-expert__input input[type="email"],
+.contact-expert__input input[type="text"],
+.contact-expert__input textarea,
+.services-two__single,
+.news-one__content {
+	--aivons-base: #151327;
+}
+
+.cases-one__content,
+.news-one__date-box>p {
+	--aivons-base: #ffffff;
+}
+
+.industries__single::before,
+.industries__icon {
+	background-color: #1a172d;
+}
+
+.listen,
+.services-two,
+.contact-expert,
+.reasons-bg,
+.services-details__services-list-box,
+.faqs-page,
+.comment-form__input-box input[type="text"],
+.comment-form__input-box input[type="email"],
+.comment-form__input-box textarea,
+.cases-details__right-list,
+.blog-single__bottom-box,
+.blog-single__delivering-services,
+.sidebar__comments,
+.sidebar__tags,
+.sidebar__post,
+.sidebar__category,
+.sidebar__single,
+.author-one,
+.locations__single,
+.services-one::before {
+	--aivons-light: #1a172d;
+}
+
+.feature__content,
+.two-section__points,
+.brand-three,
+.services-details__services-list li.active a,
+.more-cases,
+.services-one__content {
+	--aivons-base: #1a172d;
+}
+
+.two-section__points,
+.news-one__btn,
+.services-two__arrow,
+.financial__right__list li,
+.testimonial-two__text,
+.feature__btn,
+.listen__progress-box span,
+.services-details__services-list li.active a,
+.services-details__services-list li:hover a,
+.about__icon-text p,
+.about__phone-contact-text a,
+.services-details__planning-list li .text p,
+.cases-details__right-list,
+.cases-details__pagination li a,
+.news-details__tags span,
+.services-one__btn {
+	--aivons-black: #ffffff;
+}
+
+.news-two::before {
+	background-color: #0f0d1d;
+	z-index: 1;
+}
+
+.news-two .container {
+	position: relative;
+	z-index: 2;
+}
+
+.cta-two-bg-overly {
+	background-color: rgba(var(--aivons-black-rgb), .9);
+}
+
+
+.cta-two {
+	border-color: #0f0d1d;
+}
+
+.sidebar__post-list li:hover,
+.sidebar__category-list li a:hover,
+.sidebar__tags-list a,
+.two-boxes__count,
+.services-details__services-list li:hover a,
+.services-details__services-list li.active a {
+	background-color: #151327;
+}
+
+.sidebar__category-list li a:hover {
+	color: #fff;
+}
+
+.style-switcher {
+	background-color: #151327 !important;
+}
+
+.variations_form.cart select,
+.woocommerce-active .content-area .woocommerce-ordering select,
+.sidebar__single select {
+	background-color: var(--aivons-black);
+	color: var(--aivons-gray);
+	background-image: url('data:image/svg+xml;utf8,<svg version="1.1" fill="white" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><path fill="white" d="M540.1 776.847l472.32-473.63c15.466-15.518 15.44-40.642-0.080-56.134-15.518-15.48-40.656-15.44-56.134 0.080l-444.208 445.438-444.206-445.454c-15.48-15.518-40.602-15.558-56.122-0.080-7.78 7.766-11.67 17.94-11.67 28.114 0 10.148 3.864 20.282 11.59 28.034l472.308 473.632c7.436 7.474 17.556 11.668 28.1 11.668s20.652-4.206 28.102-11.668z"></path></svg>');
+	border-color: var(--aivons-black);
+}
+
+.sidebar__search-form input[type="search"],
+.wp-calendar-table tbody {
+	background-color: var(--aivons-black);
+
+}
+
+.sidebar__search-form input[type="search"] {
+	color: var(--aivons-gray);
+	border-color: var(--aivons-black);
+}
+
+.sidebar__search-form button[type="submit"] {
+	color: var(--aivons-gray);
+}
+
+.product-quantity .quantity button,
+.single-product .quantity button,
+.product-quantity .quantity input,
+.single-product .quantity input {
+	background-color: var(--aivons-black);
+	color: var(--aivons-gray);
+	border-color: rgba(255, 255, 255, .10);
+}
+
+.product-quantity .quantity button.sub,
+.single-product .quantity button.sub {
+	border-top-color: rgba(255, 255, 255, .10);
+}
+
+.wp-calendar-table>tbody>tr>td,
+.wp-calendar-table>tbody>tr>th,
+.wp-calendar-table>tfoot>tr>td,
+.wp-calendar-table>tfoot>tr>th,
+.wp-calendar-table>thead>tr>td,
+.product-details__content__text,
+.blog-pagination a,
+.blog-pagination span,
+.wp-calendar-table>thead>tr>th {
+	border-color: rgba(255, 255, 255, .10);
+}
+
+.wp-calendar-table caption {
+	color: #fff;
+}
+
+.product-details__content__quantity__text,
+.product-details__content__social__text,
+.sidebar__single.widget_rss li .rsswidget,
+.wp-calendar-nav a {
+	color: #fff;
+}
+
+b,
+strong {
+	color: #fff;
+}
+
+.woocommerce-pagination ul a,
+.woocommerce-pagination ul span,
+.blog-pagination a,
+.blog-pagination span,
+.sidebar__single .tagcloud a,
+.sidebar__single .wp-block-tag-cloud a {
+	color: var(--aivons-gray);
+	background-color: var(--aivons-black);
+}
+
+.blog-single__btn {
+	color: #fff;
+}
+
+.sidebar__single.shop-one__sidebar__item {
+	background-color: var(--aivons-light);
+	border-color: var(--aivons-light);
+}
+
+.woocommerce-pagination ul a:hover,
+.woocommerce-pagination ul span {
+	background-color: var(--aivons-primary, #3c72fc);
+	border-color: var(--aivons-primary, #3c72fc);
+	color: #fff;
+}
+
+
+.woocommerce-message,
+.woocommerce-info,
+.woocommerce-error,
+.woocommerce-noreviews,
+p.no-comments {
+	background-color: var(--aivons-black);
+}
+
+.woocommerce-grouped-product-list tbody,
+table.variations tbody {
+	background-color: var(--aivons-black);
+}
+
+.woocommerce-grouped-product-list tbody td,
+table.variations tbody td {
+	border-color: rgba(255, 255, 255, .10);
+}
+
+.single-product .woocommerce-grouped-product-list-item__label label,
+.variations_form.cart label,
+.woocommerce-tabs .woocommerce-product-attributes-item__label {
+	color: #fff;
+}
+
+.woocommerce-grouped-product-list select,
+.variations_form.cart select,
+.woocommerce-active .content-area .woocommerce-ordering select,
+.sidebar__single select {
+	--aivons-light: #1a172d;
+	background-color: var(--aivons-light);
+	border-color: var(--aivons-light);
+}
+
+table.variations tbody td:first-child {
+	padding-left: 15px;
+}
+
+.product-review__item {
+	border-bottom-color: rgba(255, 255, 255, .10);
+}
+
+
+.news-details__content blockquote:not([class*="has-"]),
+.comment-content blockquote,
+.news-details__content .wp-block-quote {
+	--aivons-light: #1a172d;
+	background-color: var(--aivons-light);
+}
+
+.comment-content strong,
+.news-details__content strong {
+	color: #fff;
+}
+
+
+.woocommerce-EditAccountForm label,
+.lost_reset_password label,
+.woocommerce-checkout .woocommerce-additional-fields__field-wrapper label,
+.woocommerce-checkout .woocommerce-billing-fields__field-wrapper label,
+.woocommerce-checkout .woocommerce-shipping-fields__field-wrapper label,
+.aivons-edit-address label {
+	color: #fff;
+}
+
+
+.woocommerce-form-login input[type="text"],
+.woocommerce-form-register input[type="text"],
+.woocommerce-form-register input[type="email"],
+.woocommerce-form-login input[type="password"],
+.lost_reset_password input[type="text"],
+.aivons-edit-address input[type="text"],
+.aivons-edit-address input[type="email"],
+.aivons-edit-address input[type="password"],
+.aivons-edit-address input[type="tel"],
+.aivons-edit-address input[type="url"],
+.aivons-edit-address input[type="file"],
+.aivons-edit-address input[type="number"],
+.aivons-edit-address textarea,
+.woocommerce-EditAccountForm input[type="text"],
+.woocommerce-EditAccountForm input[type="email"],
+.woocommerce-EditAccountForm input[type="password"],
+.woocommerce-EditAccountForm input[type="tel"],
+.woocommerce-EditAccountForm input[type="url"],
+.woocommerce-EditAccountForm input[type="file"],
+.woocommerce-EditAccountForm input[type="number"],
+.woocommerce-EditAccountForm textarea,
+.woocommerce-checkout #customer_details input[type="text"],
+.woocommerce-checkout #customer_details input[type="email"],
+.woocommerce-checkout #customer_details input[type="password"],
+.woocommerce-checkout #customer_details input[type="tel"],
+.woocommerce-checkout #customer_details input[type="url"],
+.woocommerce-checkout #customer_details input[type="file"],
+.woocommerce-checkout #customer_details input[type="number"],
+.woocommerce-checkout #customer_details .select2-container--default .select2-selection--single,
+.aivons-edit-address .select2-selection--single,
+.shop_table .coupon input[type="text"],
+.checkout_coupon input[type="text"],
+.woocommerce-checkout #customer_details textarea {
+	--aivons-light: #1a172d;
+	color: var(--aivons-gray);
+	border-color: var(--aivons-light);
+}
+
+.checkout_coupon input[type="text"],
+.woocommerce-checkout-payment .place-order,
+.shop_table .coupon input[type="text"],
+.woocommerce-checkout-payment .wc_payment_methods {
+	background-color: #1a172d;
+}
+
+.cart_totals h2,
+.woocommerce-checkout-payment .wc_payment_methods li label,
+.woocommerce b,
+.cart_totals th,
+.shop_table .product-name:not(th),
+.shop_table .product-name a,
+.shop_table .product-remove a,
+.woocommerce strong,
+.woocommerce-cart-form__contents td,
+.shop_table thead th {
+	color: #fff;
+}
+
+.shop_table tbody tr,
+.woocommerce-cart-form__contents td,
+.woocommerce-checkout-review-order-table thead tr,
+.woocommerce-checkout .shop_table tfoot tr:last-child {
+	border-color: rgba(255, 255, 255, 0.1);
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+	color: var(--aivons-gray);
+}
+
+.woocommerce-checkout-payment .wc_payment_methods li label::before {
+	background-color: var(--aivons-black);
+}
+
+.checkout_coupon p,
+.woocommerce-checkout-payment .place-order p,
+.woocommerce-checkout-payment .wc_payment_methods li p {
+	color: var(--aivons-gray);
+}

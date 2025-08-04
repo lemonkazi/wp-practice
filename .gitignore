@@ -28,6 +28,12 @@ wp-app/wp-admin
 wp-app/wp-content/uploads/
 wp-app/wp-content/index.php
 wp-app/wp-content/debug.log
+
+wp-app/wp-content/themes/twentytwentyfour
+wp-app/wp-content/themes/twentytwentyone
+wp-app/wp-content/themes/twentytwentytwo
+wp-app/wp-content/themes/twentytwentythree
+wp-app/wp-content/themes/twentytwentyfive
 wp-app/wp-content/themes/twentyfifteen
 wp-app/wp-content/themes/twentysixteen
 wp-app/wp-content/themes/twentyseventeen
@@ -66,6 +72,12 @@ wp-app/node_modules/
 wp-app/gulpfile.js
 wp-app/package-lock.json
 wp-app/package.json
+wp-app/wp-content/plugins/aivons-addon
+wp-app/wp-content/plugins/akismet
+wp-app/wp-content/plugins/all-in-one-seo-pack
 wp-app/wp-content/plugins/*
+
+
 # Ignore all plugins except for the ones we want to keep
-wp-app/wp-content/themes/*
+.aider*
+/wp-app/wp-content/wf-licensing.log
