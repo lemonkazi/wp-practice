@@ -1,0 +1,1405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-09-08 12:36+0600\n"
+"PO-Revision-Date: 2021-09-10 19:44+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: languages\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+"X-Poedit-SearchPathExcluded-4: vendor\n"
+
+#: aivons-addon.php:288
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: aivons-addon.php:312
+msgid " "
+msgstr ""
+
+#: aivons-addon.php:315
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: aivons-addon.php:322
+#, php-format
+msgid "TAGS: %1$s"
+msgstr ""
+
+#: aivons-addon.php:663
+msgid "Aivons Addon"
+msgstr ""
+
+#: aivons-addon.php:707
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: aivons-addon.php:708 aivons-addon.php:732 aivons-addon.php:757
+msgid "Aivons Theme Addon"
+msgstr ""
+
+#: aivons-addon.php:709 aivons-addon.php:733
+msgid "Elementor"
+msgstr ""
+
+#: aivons-addon.php:731 aivons-addon.php:756
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: aivons-addon.php:758
+msgid "PHP"
+msgstr ""
+
+#: elementor-templates/blog-one.php:59 elementor-templates/blog-two.php:57
+msgid "Read more"
+msgstr ""
+
+#: elementor-templates/fancy-box.php:32 elementor-templates/service-five.php:45
+#: elementor-templates/service-one.php:54
+#: elementor-templates/service-three.php:55
+msgid "Read More"
+msgstr ""
+
+#: elementor-templates/header.php:196
+msgid "search here"
+msgstr ""
+
+#: elementor-templates/header.php:197
+msgid "Search Here..."
+msgstr ""
+
+#: elementor-templates/main-slider-four.php:51
+#: elementor-templates/main-slider-one.php:55
+#: elementor-templates/main-slider-three.php:47
+#: elementor-templates/main-slider-two.php:54
+#: post-templates/single-portfolio.php:68
+msgid "Next"
+msgstr ""
+
+#: elementor-templates/main-slider-four.php:53
+#: elementor-templates/main-slider-one.php:58
+#: elementor-templates/main-slider-three.php:49
+#: elementor-templates/main-slider-two.php:57
+msgid "Prev"
+msgstr ""
+
+#: includes/Frontend/Shortcodes.php:50 includes/Frontend/Shortcodes.php:78
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/Metaboxes/Page.php:19
+msgid "General Options"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:26
+msgid "Enable Custom Header"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:30 includes/Metaboxes/Page.php:52
+#: includes/Metaboxes/Page.php:76 includes/Metaboxes/Page.php:87
+#: includes/Metaboxes/Portfolio.php:59 includes/Metaboxes/Service.php:151
+msgid "On"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:31 includes/Metaboxes/Page.php:53
+#: includes/Metaboxes/Page.php:77 includes/Metaboxes/Page.php:88
+#: includes/Metaboxes/Portfolio.php:60 includes/Metaboxes/Service.php:152
+msgid "Off"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:37
+msgid "Select Custom Header"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:48 includes/Metaboxes/Portfolio.php:55
+#: includes/Metaboxes/Service.php:147
+msgid "Enable Custom Footer"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:59 includes/Metaboxes/Portfolio.php:110
+#: includes/Metaboxes/Service.php:158
+msgid "Select Custom Footer"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:71
+msgid "Show Page Banner"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:82
+msgid "Enable BreadCrumb"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:97
+msgid "Header Title"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:107
+msgid "Header Image"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:118
+msgid "Color Options"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:126
+msgid "Base Color"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:131
+msgid "black Color"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:19
+msgid "Portfolio Options"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:27 includes/Widgets/About.php:128
+#: includes/Widgets/About.php:318 includes/Widgets/About.php:555
+#: includes/Widgets/About.php:870 includes/Widgets/Blog.php:78
+#: includes/Widgets/CallToAction.php:100 includes/Widgets/ContactForm.php:51
+#: includes/Widgets/InfoBox.php:103 includes/Widgets/MainSlider.php:91
+#: includes/Widgets/Portfolio.php:79 includes/Widgets/Service.php:82
+#: includes/Widgets/Team.php:67 includes/Widgets/Testimonials.php:80
+#: includes/Widgets/Video.php:74
+msgid "Sub Title"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:33
+msgid "Client Name"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:38
+msgid "Complete Date"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:43
+msgid "Preview Link"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:66 includes/Metaboxes/Service.php:19
+msgid "Icon Options"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:73 includes/Metaboxes/Service.php:26
+#: includes/Widgets/ContactForm.php:73 includes/Widgets/FooterCopyright.php:52
+#: includes/Widgets/Header.php:158 includes/Widgets/Header.php:277
+msgid "Select Icon"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:86 includes/Metaboxes/Pricing.php:38
+#: includes/Metaboxes/Service.php:39 includes/Metaboxes/Service.php:99
+#: includes/Widgets/Blog.php:58 includes/Widgets/Header.php:143
+msgid "Yes"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:87 includes/Metaboxes/Pricing.php:39
+#: includes/Metaboxes/Service.php:40 includes/Metaboxes/Service.php:100
+#: includes/Widgets/Blog.php:59 includes/Widgets/Header.php:144
+msgid "No"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:97 includes/Metaboxes/Pricing.php:49
+#: includes/Metaboxes/Service.php:50 includes/Metaboxes/Service.php:111
+msgid "Solid"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:98 includes/Metaboxes/Pricing.php:50
+#: includes/Metaboxes/Service.php:51 includes/Metaboxes/Service.php:112
+msgid "Regular"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:99 includes/Metaboxes/Pricing.php:51
+#: includes/Metaboxes/Service.php:52 includes/Metaboxes/Service.php:113
+msgid "Light"
+msgstr ""
+
+#: includes/Metaboxes/Portfolio.php:100 includes/Metaboxes/Pricing.php:52
+#: includes/Metaboxes/Service.php:53 includes/Metaboxes/Service.php:114
+msgid "Brands"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:19
+msgid "Pricing Content"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:26
+msgid "Pricing Icon"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:61
+msgid "Currency Type"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:67
+msgid "Renewal Fee"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:73
+msgid "Plan Options"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:79
+msgid "Feature Name"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:85
+msgid "Is Available?"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:92
+msgid "Btn Label"
+msgstr ""
+
+#: includes/Metaboxes/Pricing.php:98
+msgid "Btn URL"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:64
+msgid "Feature Box"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:74
+msgid "Feature Box {#}"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:75
+msgid "Add Another Feature Box Item"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:76
+msgid "Remove Feature Box Item"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:85
+msgid "Feature Box Icon"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:94
+msgid "Is FontAwesome Icon?"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:106
+msgid "Type of FontAwesome?"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:125
+msgid "Feature Box Title"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:131
+msgid "Feature Box Content"
+msgstr ""
+
+#: includes/Metaboxes/Service.php:140
+msgid "Footer Options"
+msgstr ""
+
+#: includes/Metaboxes/Tab.php:19
+msgid "Tab Options"
+msgstr ""
+
+#: includes/Metaboxes/Tab.php:27
+msgid "Tab Meta"
+msgstr ""
+
+#: includes/Metaboxes/Tab.php:33 includes/Metaboxes/Team.php:51
+msgid "icon"
+msgstr ""
+
+#: includes/Metaboxes/Tab.php:41
+msgid "title"
+msgstr ""
+
+#: includes/Metaboxes/Tab.php:47 includes/Widgets/Header.php:218
+msgid "text"
+msgstr ""
+
+#: includes/Metaboxes/Team.php:19
+msgid "Team Options"
+msgstr ""
+
+#: includes/Metaboxes/Team.php:26 includes/Metaboxes/Testimonial.php:31
+msgid "Designation"
+msgstr ""
+
+#: includes/Metaboxes/Team.php:32
+msgid "Contact Button Label"
+msgstr ""
+
+#: includes/Metaboxes/Team.php:35
+msgid "Contact Me"
+msgstr ""
+
+#: includes/Metaboxes/Team.php:39
+msgid "Contact Button Url"
+msgstr ""
+
+#: includes/Metaboxes/Team.php:45
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/Metaboxes/Team.php:59
+msgid "link"
+msgstr ""
+
+#: includes/Metaboxes/Testimonial.php:19
+msgid "Testimonial Options"
+msgstr ""
+
+#: includes/Metaboxes/Testimonial.php:26 includes/Widgets/About.php:90
+#: includes/Widgets/About.php:223 includes/Widgets/About.php:280
+#: includes/Widgets/About.php:386 includes/Widgets/About.php:432
+#: includes/Widgets/About.php:505 includes/Widgets/About.php:578
+#: includes/Widgets/About.php:627 includes/Widgets/CallToAction.php:58
+#: includes/Widgets/ContactForm.php:34 includes/Widgets/FancyBox.php:35
+#: includes/Widgets/Faq.php:58 includes/Widgets/FooterAbout.php:33
+#: includes/Widgets/FooterCopyright.php:33
+#: includes/Widgets/FooterNavMenu.php:33
+#: includes/Widgets/FooterSubscribe.php:33 includes/Widgets/Funfact.php:35
+#: includes/Widgets/InfoBox.php:57 includes/Widgets/Portfolio.php:59
+#: includes/Widgets/Portfolio.php:218 includes/Widgets/Service.php:59
+#: includes/Widgets/Sponsors.php:70 includes/Widgets/Testimonials.php:58
+#: includes/Widgets/Video.php:57
+msgid "Content"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:28 includes/PostTypes/Header.php:28
+#: includes/PostTypes/Portfolio.php:28 includes/PostTypes/Service.php:28
+#: includes/PostTypes/Tab.php:28 includes/PostTypes/Team.php:28
+#: includes/PostTypes/Testimonial.php:28
+msgid "Add New"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:29 includes/PostTypes/Header.php:29
+#: includes/PostTypes/Portfolio.php:29 includes/PostTypes/Service.php:29
+#: includes/PostTypes/Tab.php:29 includes/PostTypes/Team.php:29
+#: includes/PostTypes/Testimonial.php:29
+msgid "Add New "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:30 includes/PostTypes/Header.php:30
+#: includes/PostTypes/Portfolio.php:30 includes/PostTypes/Service.php:30
+#: includes/PostTypes/Tab.php:30 includes/PostTypes/Team.php:30
+#: includes/PostTypes/Testimonial.php:30
+msgid "Edit "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:31 includes/PostTypes/Header.php:31
+#: includes/PostTypes/Portfolio.php:31 includes/PostTypes/Service.php:31
+#: includes/PostTypes/Tab.php:31 includes/PostTypes/Team.php:31
+#: includes/PostTypes/Testimonial.php:31
+msgid "New "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:32 includes/PostTypes/Header.php:32
+#: includes/PostTypes/Portfolio.php:32 includes/PostTypes/Service.php:32
+#: includes/PostTypes/Tab.php:32 includes/PostTypes/Team.php:32
+#: includes/PostTypes/Testimonial.php:32
+msgid "All "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:33 includes/PostTypes/Footer.php:34
+#: includes/PostTypes/Header.php:33 includes/PostTypes/Header.php:34
+#: includes/PostTypes/Portfolio.php:33 includes/PostTypes/Portfolio.php:34
+#: includes/PostTypes/Service.php:33 includes/PostTypes/Service.php:34
+#: includes/PostTypes/Tab.php:33 includes/PostTypes/Tab.php:34
+#: includes/PostTypes/Team.php:33 includes/PostTypes/Team.php:34
+#: includes/PostTypes/Testimonial.php:33 includes/PostTypes/Testimonial.php:34
+msgid "View "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:35 includes/PostTypes/Header.php:35
+#: includes/PostTypes/Portfolio.php:35 includes/PostTypes/Service.php:35
+#: includes/PostTypes/Tab.php:35 includes/PostTypes/Team.php:35
+#: includes/PostTypes/Testimonial.php:35
+msgid "Search "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:36 includes/PostTypes/Footer.php:37
+#: includes/PostTypes/Header.php:36 includes/PostTypes/Header.php:37
+#: includes/PostTypes/Portfolio.php:36 includes/PostTypes/Portfolio.php:37
+#: includes/PostTypes/Service.php:36 includes/PostTypes/Service.php:37
+#: includes/PostTypes/Tab.php:36 includes/PostTypes/Tab.php:37
+#: includes/PostTypes/Team.php:36 includes/PostTypes/Team.php:37
+#: includes/PostTypes/Testimonial.php:36 includes/PostTypes/Testimonial.php:37
+msgid "No "
+msgstr ""
+
+#: includes/PostTypes/Footer.php:36 includes/PostTypes/Header.php:36
+#: includes/PostTypes/Portfolio.php:36 includes/PostTypes/Service.php:36
+#: includes/PostTypes/Tab.php:36 includes/PostTypes/Team.php:36
+#: includes/PostTypes/Testimonial.php:36
+msgid " found"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:37 includes/PostTypes/Header.php:37
+#: includes/PostTypes/Portfolio.php:37 includes/PostTypes/Service.php:37
+#: includes/PostTypes/Tab.php:37 includes/PostTypes/Team.php:37
+#: includes/PostTypes/Testimonial.php:37
+msgid " found in Trash"
+msgstr ""
+
+#: includes/PostTypes/Footer.php:67 includes/PostTypes/Header.php:67
+#: includes/PostTypes/Portfolio.php:67 includes/PostTypes/Service.php:67
+msgid " Categories"
+msgstr ""
+
+#: includes/Widgets/About.php:15
+msgid "About"
+msgstr ""
+
+#: includes/Widgets/About.php:33 includes/Widgets/Blog.php:33
+#: includes/Widgets/CallToAction.php:33 includes/Widgets/Faq.php:33
+#: includes/Widgets/InfoBox.php:33 includes/Widgets/MainSlider.php:33
+#: includes/Widgets/Portfolio.php:33 includes/Widgets/Service.php:33
+#: includes/Widgets/Sponsors.php:33 includes/Widgets/Team.php:33
+#: includes/Widgets/Testimonials.php:33 includes/Widgets/Video.php:34
+msgid "Layout"
+msgstr ""
+
+#: includes/Widgets/About.php:41 includes/Widgets/Blog.php:41
+#: includes/Widgets/CallToAction.php:41 includes/Widgets/Faq.php:41
+#: includes/Widgets/FooterSubscribe.php:42 includes/Widgets/Header.php:41
+#: includes/Widgets/InfoBox.php:41 includes/Widgets/MainSlider.php:41
+#: includes/Widgets/Portfolio.php:41 includes/Widgets/Service.php:41
+#: includes/Widgets/Sponsors.php:41 includes/Widgets/Team.php:41
+#: includes/Widgets/Testimonials.php:41 includes/Widgets/Video.php:42
+msgid "Select Layout"
+msgstr ""
+
+#: includes/Widgets/About.php:45 includes/Widgets/Blog.php:45
+#: includes/Widgets/CallToAction.php:45 includes/Widgets/Faq.php:45
+#: includes/Widgets/FooterSubscribe.php:46 includes/Widgets/Header.php:45
+#: includes/Widgets/InfoBox.php:45 includes/Widgets/MainSlider.php:45
+#: includes/Widgets/Portfolio.php:45 includes/Widgets/Service.php:45
+#: includes/Widgets/Sponsors.php:45 includes/Widgets/Team.php:45
+#: includes/Widgets/Testimonials.php:45 includes/Widgets/Video.php:46
+msgid "Layout One"
+msgstr ""
+
+#: includes/Widgets/About.php:46 includes/Widgets/Blog.php:46
+#: includes/Widgets/CallToAction.php:46 includes/Widgets/Faq.php:46
+#: includes/Widgets/Header.php:46 includes/Widgets/InfoBox.php:46
+#: includes/Widgets/MainSlider.php:46 includes/Widgets/Portfolio.php:46
+#: includes/Widgets/Service.php:46 includes/Widgets/Sponsors.php:46
+#: includes/Widgets/Team.php:46 includes/Widgets/Testimonials.php:46
+#: includes/Widgets/Video.php:47
+msgid "Layout Two"
+msgstr ""
+
+#: includes/Widgets/About.php:47 includes/Widgets/CallToAction.php:47
+#: includes/Widgets/Faq.php:47 includes/Widgets/Header.php:47
+#: includes/Widgets/MainSlider.php:47 includes/Widgets/Portfolio.php:47
+#: includes/Widgets/Service.php:47 includes/Widgets/Sponsors.php:47
+#: includes/Widgets/Testimonials.php:47
+msgid "Layout Three"
+msgstr ""
+
+#: includes/Widgets/About.php:48 includes/Widgets/MainSlider.php:48
+#: includes/Widgets/Portfolio.php:48 includes/Widgets/Service.php:48
+msgid "Layout Four"
+msgstr ""
+
+#: includes/Widgets/About.php:49 includes/Widgets/Service.php:49
+msgid "Layout Five"
+msgstr ""
+
+#: includes/Widgets/About.php:59 includes/Widgets/About.php:77
+#: includes/Widgets/About.php:491 includes/Widgets/FancyBox.php:74
+#: includes/Widgets/FancyBox.php:163 includes/Widgets/Faq.php:160
+#: includes/Widgets/Video.php:87
+msgid "Image"
+msgstr ""
+
+#: includes/Widgets/About.php:107 includes/Widgets/About.php:240
+#: includes/Widgets/About.php:403 includes/Widgets/About.php:522
+#: includes/Widgets/About.php:595 includes/Widgets/Faq.php:66
+#: includes/Widgets/InfoBox.php:66
+msgid "Section Title"
+msgstr ""
+
+#: includes/Widgets/About.php:109 includes/Widgets/About.php:121
+#: includes/Widgets/About.php:242 includes/Widgets/About.php:310
+#: includes/Widgets/About.php:405 includes/Widgets/About.php:524
+#: includes/Widgets/About.php:597 includes/Widgets/FancyBox.php:48
+#: includes/Widgets/Faq.php:68 includes/Widgets/Faq.php:94
+#: includes/Widgets/Faq.php:178 includes/Widgets/InfoBox.php:68
+msgid "Add title"
+msgstr ""
+
+#: includes/Widgets/About.php:119 includes/Widgets/About.php:308
+#: includes/Widgets/About.php:443 includes/Widgets/About.php:546
+#: includes/Widgets/About.php:639 includes/Widgets/About.php:687
+#: includes/Widgets/About.php:859 includes/Widgets/Blog.php:69
+#: includes/Widgets/CallToAction.php:91 includes/Widgets/ContactForm.php:42
+#: includes/Widgets/FancyBox.php:46 includes/Widgets/FancyBox.php:131
+#: includes/Widgets/Faq.php:92 includes/Widgets/Faq.php:176
+#: includes/Widgets/InfoBox.php:93 includes/Widgets/InfoBox.php:134
+#: includes/Widgets/MainSlider.php:82 includes/Widgets/Portfolio.php:67
+#: includes/Widgets/Service.php:70 includes/Widgets/Sponsors.php:56
+#: includes/Widgets/Team.php:55 includes/Widgets/Testimonials.php:68
+#: includes/Widgets/Video.php:65 includes/Widgets/Video.php:149
+#: includes/Widgets/Video.php:252
+msgid "Title"
+msgstr ""
+
+#: includes/Widgets/About.php:130 includes/Widgets/About.php:320
+msgid "Add Sub title"
+msgstr ""
+
+#: includes/Widgets/About.php:137 includes/Widgets/About.php:534
+#: includes/Widgets/Faq.php:101
+msgid "Check Icon"
+msgstr ""
+
+#: includes/Widgets/About.php:150 includes/Widgets/About.php:564
+#: includes/Widgets/Faq.php:114
+msgid "Check Lists"
+msgstr ""
+
+#: includes/Widgets/About.php:163 includes/Widgets/About.php:341
+#: includes/Widgets/About.php:467 includes/Widgets/Video.php:194
+msgid "Images"
+msgstr ""
+
+#: includes/Widgets/About.php:181 includes/Widgets/About.php:359
+#: includes/Widgets/Video.php:211
+msgid "Image One"
+msgstr ""
+
+#: includes/Widgets/About.php:192
+msgid "Image One Caption"
+msgstr ""
+
+#: includes/Widgets/About.php:194 includes/Widgets/About.php:214
+#: includes/Widgets/About.php:263
+msgid "Add Caption"
+msgstr ""
+
+#: includes/Widgets/About.php:201 includes/Widgets/About.php:371
+#: includes/Widgets/Video.php:222
+msgid "Image Two"
+msgstr ""
+
+#: includes/Widgets/About.php:212
+msgid "Image Two Caption"
+msgstr ""
+
+#: includes/Widgets/About.php:249 includes/Widgets/About.php:604
+#: includes/Widgets/CallToAction.php:147
+msgid "Icon"
+msgstr ""
+
+#: includes/Widgets/About.php:261
+msgid "Icon Caption"
+msgstr ""
+
+#: includes/Widgets/About.php:270 includes/Widgets/About.php:617
+#: includes/Widgets/Service.php:94 includes/Widgets/Video.php:99
+msgid "Summery"
+msgstr ""
+
+#: includes/Widgets/About.php:272 includes/Widgets/About.php:282
+#: includes/Widgets/About.php:619 includes/Widgets/About.php:629
+#: includes/Widgets/FooterCopyright.php:41 includes/Widgets/Video.php:101
+#: includes/Widgets/Video.php:113
+msgid "Add Text"
+msgstr ""
+
+#: includes/Widgets/About.php:291 includes/Widgets/ContactForm.php:15
+msgid "Contact Form"
+msgstr ""
+
+#: includes/Widgets/About.php:327 includes/Widgets/ContactForm.php:61
+msgid "Select your contact form 7"
+msgstr ""
+
+#: includes/Widgets/About.php:412 includes/Widgets/Faq.php:78
+#: includes/Widgets/InfoBox.php:78
+msgid "Section Sub Title"
+msgstr ""
+
+#: includes/Widgets/About.php:414 includes/Widgets/Faq.php:80
+#: includes/Widgets/InfoBox.php:80 includes/Widgets/Portfolio.php:81
+#: includes/Widgets/Service.php:84
+msgid "Add sub title"
+msgstr ""
+
+#: includes/Widgets/About.php:422
+msgid "Highlight Text"
+msgstr ""
+
+#: includes/Widgets/About.php:424
+msgid "Add highlight text"
+msgstr ""
+
+#: includes/Widgets/About.php:434
+msgid "Add Content"
+msgstr ""
+
+#: includes/Widgets/About.php:445 includes/Widgets/About.php:548
+#: includes/Widgets/About.php:641 includes/Widgets/About.php:689
+#: includes/Widgets/Blog.php:71 includes/Widgets/CallToAction.php:93
+#: includes/Widgets/CallToAction.php:102 includes/Widgets/ContactForm.php:44
+#: includes/Widgets/FancyBox.php:133 includes/Widgets/FooterNavMenu.php:41
+#: includes/Widgets/Portfolio.php:69 includes/Widgets/Team.php:57
+#: includes/Widgets/Video.php:151 includes/Widgets/Video.php:254
+msgid "Add Title"
+msgstr ""
+
+#: includes/Widgets/About.php:452
+msgid " Lists"
+msgstr ""
+
+#: includes/Widgets/About.php:557 includes/Widgets/Blog.php:80
+#: includes/Widgets/ContactForm.php:53 includes/Widgets/Team.php:69
+msgid "Add Sub Title"
+msgstr ""
+
+#: includes/Widgets/About.php:648 includes/Widgets/Faq.php:185
+msgid "Number"
+msgstr ""
+
+#: includes/Widgets/About.php:650 includes/Widgets/FooterAbout.php:76
+msgid "Add Number"
+msgstr ""
+
+#: includes/Widgets/About.php:657
+msgid "Progress Bar\t"
+msgstr ""
+
+#: includes/Widgets/About.php:670 includes/Widgets/Video.php:235
+msgid "Contact Info"
+msgstr ""
+
+#: includes/Widgets/About.php:697 includes/Widgets/About.php:904
+#: includes/Widgets/FooterAbout.php:74 includes/Widgets/Video.php:262
+msgid "Phone"
+msgstr ""
+
+#: includes/Widgets/About.php:699 includes/Widgets/Header.php:265
+#: includes/Widgets/Video.php:264
+msgid "Phone Number"
+msgstr ""
+
+#: includes/Widgets/About.php:706 includes/Widgets/Video.php:271
+msgid "Contact Icon"
+msgstr ""
+
+#: includes/Widgets/About.php:720 includes/Widgets/Blog.php:140
+#: includes/Widgets/CallToAction.php:184 includes/Widgets/ContactForm.php:122
+#: includes/Widgets/FancyBox.php:176 includes/Widgets/Faq.php:245
+#: includes/Widgets/FooterAbout.php:107
+#: includes/Widgets/FooterCopyright.php:101
+#: includes/Widgets/FooterNavMenu.php:74
+#: includes/Widgets/FooterSubscribe.php:101 includes/Widgets/Funfact.php:120
+#: includes/Widgets/Header.php:327 includes/Widgets/InfoBox.php:195
+#: includes/Widgets/InfoBox.php:228 includes/Widgets/MainSlider.php:153
+#: includes/Widgets/Portfolio.php:162 includes/Widgets/Service.php:203
+#: includes/Widgets/Tabs.php:79 includes/Widgets/Team.php:125
+#: includes/Widgets/Testimonials.php:134 includes/Widgets/Video.php:285
+msgid "Font Options"
+msgstr ""
+
+#: includes/Widgets/About.php:730 includes/Widgets/About.php:741
+#: includes/Widgets/CallToAction.php:194 includes/Widgets/ContactForm.php:132
+#: includes/Widgets/FancyBox.php:187 includes/Widgets/FancyBox.php:227
+#: includes/Widgets/FooterNavMenu.php:84
+#: includes/Widgets/FooterSubscribe.php:111 includes/Widgets/InfoBox.php:208
+#: includes/Widgets/MainSlider.php:163 includes/Widgets/Portfolio.php:198
+#: includes/Widgets/Tabs.php:89 includes/Widgets/Video.php:295
+#: includes/Widgets/Video.php:358
+msgid "Title Typography"
+msgstr ""
+
+#: includes/Widgets/About.php:754 includes/Widgets/About.php:767
+msgid "Highlight Text Typography"
+msgstr ""
+
+#: includes/Widgets/About.php:780 includes/Widgets/FancyBox.php:197
+#: includes/Widgets/Faq.php:301 includes/Widgets/FooterAbout.php:117
+#: includes/Widgets/Tabs.php:109
+msgid "Content Typography"
+msgstr ""
+
+#: includes/Widgets/About.php:794
+msgid "Image Caption Typography"
+msgstr ""
+
+#: includes/Widgets/About.php:807
+msgid "Icon Caption Typography"
+msgstr ""
+
+#: includes/Widgets/About.php:821
+msgid "Check List Title Typography"
+msgstr ""
+
+#: includes/Widgets/About.php:833
+msgid "Check List Sub Title Typography"
+msgstr ""
+
+#: includes/Widgets/About.php:846
+msgid "Contact Form Font Options"
+msgstr ""
+
+#: includes/Widgets/About.php:880 includes/Widgets/Video.php:345
+msgid "Contact Info Font Options"
+msgstr ""
+
+#: includes/Widgets/About.php:893 includes/Widgets/FancyBox.php:55
+#: includes/Widgets/FancyBox.php:57 includes/Widgets/FancyBox.php:141
+#: includes/Widgets/MainSlider.php:100
+msgid "Text"
+msgstr ""
+
+#: includes/Widgets/Blog.php:15
+msgid "Blog"
+msgstr ""
+
+#: includes/Widgets/Blog.php:56
+msgid "Enable Pagination?"
+msgstr ""
+
+#: includes/Widgets/Blog.php:89 includes/Widgets/Team.php:82
+msgid "Post Options"
+msgstr ""
+
+#: includes/Widgets/Blog.php:98 includes/Widgets/Portfolio.php:92
+#: includes/Widgets/Service.php:106 includes/Widgets/Tabs.php:56
+#: includes/Widgets/Team.php:103 includes/Widgets/Testimonials.php:93
+msgid "Number Of Posts"
+msgstr ""
+
+#: includes/Widgets/Blog.php:118 includes/Widgets/Portfolio.php:112
+#: includes/Widgets/Service.php:126 includes/Widgets/Testimonials.php:113
+msgid "Word Count In Excerpt"
+msgstr ""
+
+#: includes/Widgets/Blog.php:150 includes/Widgets/Faq.php:255
+#: includes/Widgets/InfoBox.php:241 includes/Widgets/Portfolio.php:172
+#: includes/Widgets/Service.php:213 includes/Widgets/Testimonials.php:144
+msgid "Section Title Typography"
+msgstr ""
+
+#: includes/Widgets/Blog.php:160 includes/Widgets/Faq.php:268
+#: includes/Widgets/InfoBox.php:251 includes/Widgets/Portfolio.php:185
+#: includes/Widgets/Service.php:226 includes/Widgets/Testimonials.php:157
+msgid "Section Sub Title Typography"
+msgstr ""
+
+#: includes/Widgets/Blog.php:170
+msgid "Post Title Typography"
+msgstr ""
+
+#: includes/Widgets/Blog.php:180
+msgid "Post Meta Typography"
+msgstr ""
+
+#: includes/Widgets/Blog.php:190
+msgid "Post Content Typography"
+msgstr ""
+
+#: includes/Widgets/Blog.php:200 includes/Widgets/FancyBox.php:207
+msgid "Read More Typography"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:15
+msgid "Call To Action"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:67 includes/Widgets/FancyBox.php:96
+#: includes/Widgets/Funfact.php:44 includes/Widgets/Service.php:172
+#: includes/Widgets/Sponsors.php:105
+msgid "Add Background Image"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:78 includes/Widgets/FancyBox.php:107
+#: includes/Widgets/Funfact.php:55 includes/Widgets/Service.php:186
+#: includes/Widgets/Sponsors.php:119
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:112 includes/Widgets/MainSlider.php:109
+msgid "Button Text"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:114 includes/Widgets/MainSlider.php:111
+msgid "Discover More"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:125 includes/Widgets/MainSlider.php:119
+msgid "Button Url"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:127 includes/Widgets/ContactForm.php:86
+#: includes/Widgets/FooterCopyright.php:65 includes/Widgets/Header.php:171
+#: includes/Widgets/Header.php:290 includes/Widgets/MainSlider.php:121
+#: includes/Widgets/Video.php:126 post-templates/single-service.php:65
+msgid "#"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:159
+msgid "Url"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:161 includes/Widgets/ContactForm.php:84
+#: includes/Widgets/FooterCopyright.php:63 includes/Widgets/Header.php:169
+#: includes/Widgets/Header.php:288
+msgid "Add Url"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:170
+msgid "Cta items"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:205 includes/Widgets/ContactForm.php:142
+#: includes/Widgets/InfoBox.php:218 includes/Widgets/MainSlider.php:173
+#: includes/Widgets/Portfolio.php:208 includes/Widgets/Video.php:305
+msgid "Sub Title Typography"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:218 includes/Widgets/MainSlider.php:183
+msgid "Button Typography"
+msgstr ""
+
+#: includes/Widgets/ContactForm.php:100 includes/Widgets/FooterCopyright.php:79
+#: includes/Widgets/Header.php:185 includes/Widgets/Header.php:304
+msgid "Social Icons"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:15
+msgid "Fancy Box"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:65
+msgid "Read More Url"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:86
+msgid "Fancy Items"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:123
+msgid "Bottom Content"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:143 includes/Widgets/Faq.php:235
+#: includes/Widgets/Funfact.php:90 includes/Widgets/Funfact.php:104
+#: includes/Widgets/Testimonials.php:82
+msgid "Default Text"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:151
+msgid " Icon"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:217
+msgid "Bottom Content Font Options"
+msgstr ""
+
+#: includes/Widgets/FancyBox.php:237 includes/Widgets/FooterSubscribe.php:122
+#: includes/Widgets/Funfact.php:130 includes/Widgets/Header.php:347
+msgid "Text Typography"
+msgstr ""
+
+#: includes/Widgets/Faq.php:15 includes/Widgets/Faq.php:150
+msgid "FAQ"
+msgstr ""
+
+#: includes/Widgets/Faq.php:131
+msgid "Question"
+msgstr ""
+
+#: includes/Widgets/Faq.php:133
+msgid "Add Question"
+msgstr ""
+
+#: includes/Widgets/Faq.php:140
+msgid "Answere"
+msgstr ""
+
+#: includes/Widgets/Faq.php:142
+msgid "Add Answere"
+msgstr ""
+
+#: includes/Widgets/Faq.php:187
+msgid "Add number"
+msgstr ""
+
+#: includes/Widgets/Faq.php:188
+msgid "89"
+msgstr ""
+
+#: includes/Widgets/Faq.php:196 includes/Widgets/Video.php:179
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/Widgets/Faq.php:212
+msgid "Experience"
+msgstr ""
+
+#: includes/Widgets/Faq.php:223
+msgid "Experience Year"
+msgstr ""
+
+#: includes/Widgets/Faq.php:225
+msgid "30"
+msgstr ""
+
+#: includes/Widgets/Faq.php:233
+msgid "Experience Text"
+msgstr ""
+
+#: includes/Widgets/Faq.php:281
+msgid "Question Typography"
+msgstr ""
+
+#: includes/Widgets/Faq.php:291
+msgid "Answere Typography"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:15
+msgid "Footer About"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:41
+msgid "Add Logo"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:52 includes/Widgets/Header.php:95
+msgid "Logo Dimension"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:54 includes/Widgets/Header.php:97
+msgid "Set Custom Logo Size."
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:65
+msgid "Paragraph"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:67 includes/Widgets/MainSlider.php:93
+msgid "Add paragraph text"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:77
+msgid "+92 666 888 0000"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:84 includes/Widgets/InfoBox.php:154
+msgid "Email"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:86
+msgid "Add Email"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:94
+msgid "Address"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:96
+msgid "Add Address"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:97
+msgid "66 Broklyn Street New York, USA"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:15
+msgid "Footer CopyRight"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:43
+msgid "&copy; Layerdrops"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:111
+msgid "Copyright Typography"
+msgstr ""
+
+#: includes/Widgets/FooterNavMenu.php:15
+msgid "Footer Nav Menus"
+msgstr ""
+
+#: includes/Widgets/FooterNavMenu.php:43
+#: includes/Widgets/FooterSubscribe.php:56
+msgid "Explore"
+msgstr ""
+
+#: includes/Widgets/FooterNavMenu.php:52 includes/Widgets/Header.php:119
+msgid "Select Nav Menu"
+msgstr ""
+
+#: includes/Widgets/FooterNavMenu.php:63
+msgid "Nav Menus"
+msgstr ""
+
+#: includes/Widgets/FooterNavMenu.php:94 includes/Widgets/Header.php:337
+msgid "Nav Menu Typography"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:15
+msgid "Footer Subscribe"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:54
+msgid "Widget Title"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:63
+msgid "Add Mailchimp URL"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:72
+msgid "Input Placeholder Text"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:74 includes/Widgets/Header.php:255
+msgid "Email Address"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:81
+msgid "Button Label Text"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:83
+msgid "Register"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:90
+msgid "Subscribe label"
+msgstr ""
+
+#: includes/Widgets/FooterSubscribe.php:92
+msgid "Subsrcibe for latest articles and resources"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:15
+msgid "Funfact"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:68
+msgid "Count Icon"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:79 includes/Widgets/Video.php:158
+msgid "Count Number"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:88
+msgid "Count Text"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:98
+msgid "Funfact Boxes"
+msgstr ""
+
+#: includes/Widgets/Funfact.php:140
+msgid "Number Typography"
+msgstr ""
+
+#: includes/Widgets/Header.php:15
+msgid "Header"
+msgstr ""
+
+#: includes/Widgets/Header.php:33
+msgid "Layout Type"
+msgstr ""
+
+#: includes/Widgets/Header.php:57
+msgid "Site Logo"
+msgstr ""
+
+#: includes/Widgets/Header.php:65
+msgid "Light Logo"
+msgstr ""
+
+#: includes/Widgets/Header.php:80
+msgid "Dark Logo"
+msgstr ""
+
+#: includes/Widgets/Header.php:111
+msgid "Navigation"
+msgstr ""
+
+#: includes/Widgets/Header.php:131
+msgid "Others"
+msgstr ""
+
+#: includes/Widgets/Header.php:141
+msgid "Enable Search?"
+msgstr ""
+
+#: includes/Widgets/Header.php:205
+msgid "Call Number"
+msgstr ""
+
+#: includes/Widgets/Header.php:207
+msgid "666 000 888"
+msgstr ""
+
+#: includes/Widgets/Header.php:220
+msgid "Need help? Talk to an expert"
+msgstr ""
+
+#: includes/Widgets/Header.php:233
+msgid "Mobile Drawer"
+msgstr ""
+
+#: includes/Widgets/Header.php:242
+msgid "Mobile Drawer Logo"
+msgstr ""
+
+#: includes/Widgets/Header.php:257
+msgid "email@eamil.com"
+msgstr ""
+
+#: includes/Widgets/Header.php:267
+msgid "323232"
+msgstr ""
+
+#: includes/Widgets/Header.php:360
+msgid "Phone Typography"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:15
+msgid "Info Box"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:95 includes/Widgets/InfoBox.php:136
+msgid "Awesome title"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:105
+msgid "Awesome Sub Title "
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:114 includes/Widgets/InfoBox.php:176
+msgid "Info Boxes"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:122 includes/Widgets/Video.php:76
+msgid "Awesome Sub Title"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:144
+msgid "info text"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:146
+msgid "22 Texas West Hills"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:156
+msgid "Add email"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:165 includes/Widgets/InfoBox.php:167
+msgid "Add Phone"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:184
+msgid "AUSTIN"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:261
+msgid "Info Box Title Typography"
+msgstr ""
+
+#: includes/Widgets/InfoBox.php:272
+msgid "Info Box Content Typography"
+msgstr ""
+
+#: includes/Widgets/MainSlider.php:15
+msgid "Main Slider"
+msgstr ""
+
+#: includes/Widgets/MainSlider.php:59 includes/Widgets/MainSlider.php:135
+msgid "Slider Content"
+msgstr ""
+
+#: includes/Widgets/MainSlider.php:70
+msgid "Background Image"
+msgstr ""
+
+#: includes/Widgets/MainSlider.php:84 includes/Widgets/MainSlider.php:140
+#: includes/Widgets/Service.php:72 includes/Widgets/Sponsors.php:58
+#: includes/Widgets/Testimonials.php:70 includes/Widgets/Video.php:67
+msgid "Awesome Title"
+msgstr ""
+
+#: includes/Widgets/MainSlider.php:102 includes/Widgets/Service.php:96
+msgid "Add summery text"
+msgstr ""
+
+#: includes/Widgets/Portfolio.php:15
+msgid "Portfolio"
+msgstr ""
+
+#: includes/Widgets/Portfolio.php:135 includes/Widgets/Service.php:149
+msgid "Post Category"
+msgstr ""
+
+#: includes/Widgets/Portfolio.php:146 includes/Widgets/Service.php:158
+#: includes/Widgets/Tabs.php:43 includes/Widgets/Team.php:90
+msgid "Select Order"
+msgstr ""
+
+#: includes/Widgets/Portfolio.php:150 includes/Widgets/Service.php:162
+#: includes/Widgets/Tabs.php:47 includes/Widgets/Team.php:94
+msgid "DESC"
+msgstr ""
+
+#: includes/Widgets/Portfolio.php:151 includes/Widgets/Service.php:163
+#: includes/Widgets/Tabs.php:48 includes/Widgets/Team.php:95
+msgid "ASC"
+msgstr ""
+
+#: includes/Widgets/Service.php:15
+msgid "Service"
+msgstr ""
+
+#: includes/Widgets/Service.php:239
+msgid "Service Title Typography"
+msgstr ""
+
+#: includes/Widgets/Service.php:249
+msgid "Service Content Typography"
+msgstr ""
+
+#: includes/Widgets/Service.php:262
+msgid "Service Read More Typography"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:15
+msgid "Sponsors"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:80
+msgid "Add Image"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:87
+msgid "Add Link"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:96
+msgid "Sponsor Items"
+msgstr ""
+
+#: includes/Widgets/Tabs.php:15
+msgid "Tabs"
+msgstr ""
+
+#: includes/Widgets/Tabs.php:34
+msgid "Tab Items"
+msgstr ""
+
+#: includes/Widgets/Tabs.php:99
+msgid "Meta Title Typography"
+msgstr ""
+
+#: includes/Widgets/Team.php:15
+msgid "Team"
+msgstr ""
+
+#: includes/Widgets/Team.php:135 includes/Widgets/Testimonials.php:169
+msgid "Name Typography"
+msgstr ""
+
+#: includes/Widgets/Team.php:145 includes/Widgets/Testimonials.php:178
+msgid "Designation Typography"
+msgstr ""
+
+#: includes/Widgets/Team.php:155
+msgid "Contact Text Typography"
+msgstr ""
+
+#: includes/Widgets/Testimonials.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: includes/Widgets/Testimonials.php:187
+msgid "Testimonial Typography"
+msgstr ""
+
+#: includes/Widgets/Video.php:15
+msgid "Video"
+msgstr ""
+
+#: includes/Widgets/Video.php:111
+msgid "Highlighted Text"
+msgstr ""
+
+#: includes/Widgets/Video.php:124
+msgid "Video Url"
+msgstr ""
+
+#: includes/Widgets/Video.php:134 includes/Widgets/Video.php:136
+msgid "Sidebar Text"
+msgstr ""
+
+#: includes/Widgets/Video.php:137
+msgid "aivons"
+msgstr ""
+
+#: includes/Widgets/Video.php:318
+msgid "Summery Typography"
+msgstr ""
+
+#: includes/Widgets/Video.php:332
+msgid "Highlighted Text Typography"
+msgstr ""
+
+#: includes/Widgets/Video.php:368
+msgid "Phone Text Typography"
+msgstr ""
+
+#: post-templates/single-portfolio.php:39
+msgid "Client"
+msgstr ""
+
+#: post-templates/single-portfolio.php:43
+msgid "Category"
+msgstr ""
+
+#: post-templates/single-portfolio.php:49
+msgid "Date"
+msgstr ""
+
+#: post-templates/single-portfolio.php:61
+msgid "PREV"
+msgstr ""
+
+#: post-templates/single-service.php:47
+msgid "All Services"
+msgstr ""
+
+#: post-templates/single-service.php:62
+msgid "Need Help?"
+msgstr ""
+
+#: post-templates/single-service.php:63
+msgid "Default Text?"
+msgstr ""
+
+#: post-templates/single-service.php:65
+msgid "666 888 000"
+msgstr ""
